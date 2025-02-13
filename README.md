@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello!! 👋
 
-<!--
-**mattmcc126/mattmcc126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Matthew (Matt) McCune, Im a 3rd year Computer Science student at the University of Rhode Island. My interests are software engineering, machine learning, and finance. I post personal projects that I do to further my learning, or something that I feel would be fun to develop.  
 
-Here are some ideas to get you started:
+### What im currently learning 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- CSC 305 → Software Engineering
+- CSC 340 → Applied Combinatorics
+- CSC 411 → Computer Organization
+- CSC 412 → OS & Networks
+
+### Pervious relevant coursework ✏️
+
+Linear Algebra, Discrete Mathematics, Calculus, Data Structures & Abstractions, Machine Learning for Data Science, Computer Science Fundamentals  
+
+### What I like to do in my free time 🏄 ⛷️ ✈️
+
+I love to surf and ski, and generally tend to be outdoorsy. I also like to go and see new places around the world, and have been getting more into hiking and backpacking.
