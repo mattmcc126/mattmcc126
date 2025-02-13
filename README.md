@@ -13,6 +13,6 @@ My name is Matthew (Matt) McCune, Im a 3rd year Computer Science student at the 
 
 Linear Algebra, Discrete Mathematics, Calculus, Data Structures & Abstractions, Machine Learning for Data Science, Computer Science Fundamentals  
 
-### What I like to do in my free time 🏄 ⛷️ ✈️
+### What I like to do in my free time 🏄 ⛷️ ✈️ 🏋️
 
-I love to surf and ski, and generally tend to be outdoorsy. I also like to go and see new places around the world, and have been getting more into hiking and backpacking.
+I love to surf and ski and go to the gym, and generally tend to be outdoorsy. I also like to go and see new places around the world, and have been getting more into hiking and backpacking.
