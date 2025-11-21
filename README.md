@@ -1,17 +1,16 @@
 ## Hello!! 👋
 
-My name is Matthew (Matt) McCune, Im a 3rd year Computer Science student at the University of Rhode Island. My interests are software engineering, machine learning, and finance. I post personal projects that I do to further my learning, or something that I feel would be fun to develop.  
+My name is Matthew (Matt) McCune, Im a 4rd year Computer Science student at the University of Rhode Island. My interests are machine learning, data science, and algorithm development. I post personal projects that I do to further my learning, or something that I feel would be fun to develop.  
 
 ### What im currently learning 💻
 
-- CSC 305 → Software Engineering
-- CSC 340 → Applied Combinatorics
-- CSC 411 → Computer Organization
-- CSC 412 → OS & Networks
+- CSC 461 → Machine Learning Algorithms
+- CSC 440 → Analysis of Algorithms
+- CSC 436 → Database Management Systems
 
 ### Pervious relevant coursework ✏️
 
-Linear Algebra, Discrete Mathematics, Calculus, Data Structures & Abstractions, Machine Learning for Data Science, Computer Science Fundamentals  
+Linear Algebra, Discrete Mathematics, Calculus, Data Structures & Abstractions, Statistics, Machine Learning for Data Science, Computer Architecture, OS and Networks
 
 ### What I like to do in my free time 🏄 ⛷️ ✈️ 🏋️
 
